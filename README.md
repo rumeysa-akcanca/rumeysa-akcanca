@@ -11,7 +11,7 @@
 - 📫 How to reach me **rumeysacanca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">  <a href="www.linkedin.com/in/rümeysa-akcanca" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="linkedin" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
