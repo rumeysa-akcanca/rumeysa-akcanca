@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rumeysa AKCANCA</h1>
+<h1 align="center">Hi 👋, I'm Rumeysa Akcanca</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumeysa-akcanca&label=Profile%20views&color=0e75b6&style=flat" alt="rumeysa-akcanca" /> </p>
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, Javascript, ASP.NET Core, HTML, CSS**
 
-- 📫 How to reach me **rumeysaakcanca1@gmail.com **
+- 📫 How to reach me rumeysaakcanca1@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
