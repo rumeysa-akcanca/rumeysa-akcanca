@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C#, Javascript, ASP.NET Core, HTML, CSS**
 
-- 📫 How to reach me **www.linkedin.com/in/rümeysa-akcanca**
+- 📫 How to reach me **rumeysaakcanca1@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
