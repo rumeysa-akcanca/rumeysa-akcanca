@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysa-akcanca" alt="rumeysa-akcanca" /></a> </p>
 
--🌱 I’m currently learning .NET 
+ 🌱 I’m currently learning .NET 
 
 - 💬 Ask me about **C#, JavaScript, ASP.NET Core, HTML, CSS**
 
